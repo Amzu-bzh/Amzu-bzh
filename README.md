@@ -1,6 +1,6 @@
 # Amzu-bzh
 
 - [X] choose a domain
-- [ ] learn the basics (in progress)
-- [ ] become the best
+- [X] learn the basics
+- [ ] become the best (in progress)
 - [ ] conquer the world
