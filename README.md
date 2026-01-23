@@ -14,6 +14,5 @@ Artificial intelligence and machine learning particularly appeal to me. It's an 
 
 I'm working on personal projects that allow me to solidify my foundations and explore new technologies. Projects I'll be truly proud of are coming soon.
 
----
 
 *Continuously under construction* 🚧
